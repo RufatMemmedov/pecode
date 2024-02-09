@@ -1,0 +1,38 @@
+[{
+    "id":1,
+    "meqaleBasligi":"The truth about ReactJS",
+    "meqaleninShekli":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497148/Rectangle_228_2_b7nthg.png",
+    "meqaleninMetni":"Sigh, it’s like we can’t catch a break. So much has happened over the past.......",
+    "meqaleTarixi":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497830/Frame_1636_js8sbl.png"   
+},{
+    "id":2,
+    "meqaleBasligi":"Gaffer. Case Study",
+    "meqaleninShekli":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497148/Rectangle_228_3_rliuyc.png",
+    "meqaleninMetni":"Sigh, it’s like we can’t catch a break. So much has happened over the past......."
+},{
+    "id":3,
+    "meqaleBasligi":"The truth about ReactJS",
+    "meqaleninShekli":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497148/Rectangle_228_4_ydw7q3.png",
+    "meqaleninMetni":"Sigh, it’s like we can’t catch a break. So much has happened over the past happened happened over the past happened.....",
+    "meqaleTarixi":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497830/Frame_1636_js8sbl.png"   
+},{
+    },{
+    "id":4,
+    "meqaleBasligi":"How to solve an unsolvable conflict",
+    "meqaleninShekli":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497205/Rectangle_228_5_a6zlpx.png",
+    "meqaleninMetni":"Sigh, it’s like we can’t catch a break. So much has happened over the past happened happened over the past happened.....",
+    "meqaleTarixi":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497830/Frame_1636_js8sbl.png"   
+},{
+    "id":5,
+    "meqaleBasligi":"The truth about ReactJS",
+    "meqaleninShekli":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497205/Rectangle_228_6_ndra8t.png",
+    "meqaleninMetni":"Sigh, it’s like we can’t catch a break. So much has happened over the past happened happened over the past happened.....",
+    "meqaleTarixi":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497830/Frame_1636_js8sbl.png"   
+    
+},{
+    "id":6,
+    "meqaleBasligi":"How to solve an unsolvable conflict",
+    "meqaleninShekli":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497205/Rectangle_228_7_dpduiz.png",
+    "meqaleninMetni":"Sigh, it’s like we can’t catch a break. So much has happened over the past happened happened over the past happened.....",
+    "meqaleTarixi":"https://res.cloudinary.com/djzvgrhvo/image/upload/v1707497830/Frame_1636_js8sbl.png"   
+}]
